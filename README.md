@@ -32,3 +32,23 @@ All documentation lives in [`1—Documentation/`](1—Documentation/README.md):
 15. Testing
 16. Security considerations
 17. Troubleshooting
+
+<!-- project-metrics:start -->
+## Project Metrics
+
+[![Stars](https://img.shields.io/github/stars/syedjafri06193/Geospatial-Tile-Server-proj?style=flat-square)](https://github.com/syedjafri06193/Geospatial-Tile-Server-proj/stargazers) [![Forks](https://img.shields.io/github/forks/syedjafri06193/Geospatial-Tile-Server-proj?style=flat-square)](https://github.com/syedjafri06193/Geospatial-Tile-Server-proj/forks) [![Open issues](https://img.shields.io/github/issues/syedjafri06193/Geospatial-Tile-Server-proj?style=flat-square)](https://github.com/syedjafri06193/Geospatial-Tile-Server-proj/issues) [![Last commit](https://img.shields.io/github/last-commit/syedjafri06193/Geospatial-Tile-Server-proj/improvements?style=flat-square)](https://github.com/syedjafri06193/Geospatial-Tile-Server-proj/commits/improvements) [![Commits](https://img.shields.io/github/commit-activity/t/syedjafri06193/Geospatial-Tile-Server-proj?style=flat-square)](https://github.com/syedjafri06193/Geospatial-Tile-Server-proj/commits/improvements) [![Top language](https://img.shields.io/github/languages/top/syedjafri06193/Geospatial-Tile-Server-proj?style=flat-square)](https://github.com/syedjafri06193/Geospatial-Tile-Server-proj) [![Repo size](https://img.shields.io/github/repo-size/syedjafri06193/Geospatial-Tile-Server-proj?style=flat-square)](https://github.com/syedjafri06193/Geospatial-Tile-Server-proj)
+
+### Code
+
+| Metric | Value |
+|---|---|
+| Lines of code | — (design-docs repo) |
+| Source files | 0 |
+| Tracked files | 3 |
+| Documentation | 2 Markdown files (150 words), 1 PDF |
+| Commits | 5 |
+| Contributors | 1 |
+| Active | 2026-10-06 → 2026-10-28 |
+
+<sub>Code stats as of 2026-10-28, counted with pygount (comments and blank lines excluded). Badges update live.</sub>
+<!-- project-metrics:end -->
